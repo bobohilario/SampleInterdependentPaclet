@@ -6,8 +6,8 @@
 
 BeginPackage["SamplePublisher`SampleInterdependentPaclet`Internal`"]
 
-InternalSymbolA=0
+InternalSymbolA
 
-InternalSymbolB=0
+InternalSymbolB
 
 EndPackage[]
